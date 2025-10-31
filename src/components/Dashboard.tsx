@@ -35,7 +35,7 @@ export function Dashboard({ onLogout }: DashboardProps) {
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
         <div className="mb-8">
-          <h1 className="text-3xl mb-2">Welcome back, Rahul</h1>
+          <h1 className="text-3xl mb-2">Welcome back, Raj</h1>
           <p className="text-gray-600">Manage your loans and check your Udhar Score</p>
         </div>
 
