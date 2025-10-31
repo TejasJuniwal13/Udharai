@@ -51,15 +51,15 @@ export function LandingPage({ onLogin }: LandingPageProps) {
       <section className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
           <div className="text-center">
-            <div className="text-4xl mb-2">50K+</div>
+            <div className="text-4xl mb-2">50+</div>
             <div className="text-gray-600">Loans Disbursed</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl mb-2">₹500Cr+</div>
+            <div className="text-4xl mb-2">₹50L+</div>
             <div className="text-gray-600">Total Credit Given</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl mb-2">95%</div>
+            <div className="text-4xl mb-2">90%</div>
             <div className="text-gray-600">Approval Rate</div>
           </div>
         </div>
