@@ -55,7 +55,7 @@ export function LandingPage({ onLogin }: LandingPageProps) {
             <div className="text-gray-600">Loans Disbursed</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl mb-2">₹50L+</div>
+            <div className="text-4xl mb-2">₹50k+</div>
             <div className="text-gray-600">Total Credit Given</div>
           </div>
           <div className="text-center">
